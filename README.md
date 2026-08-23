@@ -2,7 +2,7 @@
 
 <img width="200" src="icon.png" alt="Ambient F-dows" align="center">
 
-# Ambient Calculator
+# Ambient F-dows
 The Free and Open Source Windows App Store (F-dows)
 
 <div align="left">

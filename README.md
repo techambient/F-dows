@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="200" src="icon.png" alt="Ambient F-dows" align="center">
+<img width="200" src="icons.svg" alt="Ambient F-dows" align="center">
 
 # Ambient F-dows
 The Free and Open Source Windows App Store (F-dows)

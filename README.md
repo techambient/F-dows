@@ -14,6 +14,7 @@ The Free and Open Source Windows App Store (F-dows)
 * Anti-Feature Warnings: Flags apps explicitly if they include undesirable traits like ads or tracking.
 * Custom Repositories: Allows users to add and use third-party or self-hosted software repositories easily.
 * 100% Safe & Verified via VirusTotal
+* Extreme Lightweight (447 KB ONLY!)
 * Fast Speed
 * Zero Ads & Zero Tracking
 

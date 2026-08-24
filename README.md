@@ -17,6 +17,10 @@ The Free and Open Source Windows App Store (F-dows)
 * Fast Speed
 * Zero Ads & Zero Tracking
 
+<a href="https://github.com/techambient/F-dows/releases/latest">
+  Click Here To Download F-dows to your PC!
+</a>
+
 ## ❓ How to upload apps to F-dows FOR COMPLETELY FREE
 
 ### Before Start

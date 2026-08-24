@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="master.jpg" width="100%"/>
+<img src="master1.jpg" width="100%"/>
 
 # Ambient F-dows
 The Free and Open Source Windows App Store (F-dows)

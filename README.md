@@ -35,7 +35,7 @@ The Free and Open Source Windows App Store (F-dows)
 * Create a file named f-dows.txt in your GitHub repo main branch
 * Ensure the f-dows.txt contains the App Name, developer name, short description (Max 80 characters), long description, App logo URL, Download link URL, screenshot 1 image URL and screenshot 2 image URL (optional).
 * You can get the images URL by creating a new folder in main branch named f-dows-images and upload it.
-* Once you completed, email to me (tempu3544@gmail.com), your project will verify and reviewed by our team.
+* Once you completed, email to me (tempu3544@gmail.com) with title `F-dows App Submission` and your Github repo link, your project will verify and reviewed by our team.
 * Check https://techambient.github.io/F-dows/store daily and check email app daily, you will be replied once your app either successfully uploaded to F-dows or rejected by our team. 
 
 ## 📷 Screenshots

@@ -3,7 +3,7 @@
 <img src="master1.jpg" width="100%"/>
 
 # Ambient F-dows
-The Free and Open Source Windows App Store (F-dows)
+The Free and Open Source Windows App Store (F-dows) that natively support from Windows 95 ~ 11
 
 <div align="left">
 

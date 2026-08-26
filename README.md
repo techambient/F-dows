@@ -42,7 +42,7 @@ The Free and Open Source Windows App Store (F-dows)
 
 <img src="main.png" width="100%"/>
 <i>Main screen of F-dows</i>
-<br/>
+<br>
 <img src="main1.png" width="100%"/>
 <i>App(s) details pop-up</i>
 

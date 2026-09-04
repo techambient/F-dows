@@ -5,6 +5,10 @@
 # Ambient F-dows
 The Free and Open Source Windows App Store (F-dows) that natively support from Windows 95 ~ 11
 
+[![License](https://img.shields.io/github/license/techambient/F-dows?style=for-the-badge)](LICENSE)
+[![Platform](https://img.shields.io/badge/Windows-95%2B-34A853?style=for-the-badge)]()
+[![Glasmorphism](https://img.shields.io/badge/Glass-UI-4285F4?style=for-the-badge)]()
+
 <div align="left">
 
 ## 📖 Features

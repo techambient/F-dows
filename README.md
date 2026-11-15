@@ -2,8 +2,8 @@
 
 <img src="master1.jpg" width="100%"/>
 
-# Ambient F-dows
-The Free and Open Source Windows App Store (F-dows) that natively support from Windows 95 ~ 11
+# Winget Explorer (formerly F-dows)
+The Free and Open Source Windows App Store (F-dows) that natively support from Windows 95 ~ 11 containing 16350+ packages
 
 [![License](https://img.shields.io/github/license/techambient/F-dows?style=for-the-badge)](LICENSE)
 [![Platform](https://img.shields.io/badge/Windows-95%2B-34A853?style=for-the-badge)]()
@@ -18,7 +18,7 @@ The Free and Open Source Windows App Store (F-dows) that natively support from W
 * Anti-Feature Warnings: Flags apps explicitly if they include undesirable traits like ads or tracking.
 * Custom Repositories: Allows users to add and use third-party or self-hosted software repositories easily.
 * 100% Safe & Verified via VirusTotal
-* Extreme Lightweight (447 KB ONLY!)
+* Extreme Lightweight (197 KB ONLY!)
 * Fast Speed
 * Zero Ads & Zero Tracking
 
@@ -45,18 +45,15 @@ The Free and Open Source Windows App Store (F-dows) that natively support from W
 ## 📷 Screenshots
 
 <img src="main.png" width="100%"/>
-<i>Main screen of F-dows</i>
+<i>Main screen of Winget Explorer</i>
 <br>
 <img src="main1.png" width="100%"/>
 <i>App(s) details pop-up</i>
 
 ## ☕ Support
 
-If you like this project, kindly star this repo as basic support and give some donations to help keep it alive!
+If you like this project, kindly star this repo as basic support to help keep it alive!
 
-* **Solana (SOL / USDC):** `EME9M9cSy9FvfHvcx2gMPkp1H5Dj4YaKufPRsAyon8Tf`
-* **Bitcoin (Taproot):** `bc1pguvpjudf9gr2lyjcf4s9ttvzushgu0hqhr2p7fwqzsz4977kajcqemvned`
-* **Bitcoin (Native Segwit):** `bc1qwfjwytw8lehg20es373cx2ulr3el99rt9uurz5`
 
 ## 💬 Join My Discord Server
 

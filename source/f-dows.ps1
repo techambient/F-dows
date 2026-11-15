@@ -1,1 +1,0 @@
-Start-Process "https://techambient.github.io/F-dows/store"
